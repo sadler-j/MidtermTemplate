@@ -3,6 +3,9 @@ Regardless of how you organize it, make sure you are very specific in how you
 did so here. The easier you make it to grade, the more merciful we can be
 (as we will appreciate your forsight and planning).
 
+We also recommend adding a folder for your final code (so everything can be in
+one place and you won't require nearly as many hard-coded paths).
+
 As a reminder, here are some of the things you will need:
 -Explain which parts of the midterm you have and haven’t finished
 -Include a list of filepaths to the following important files
